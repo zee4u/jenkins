@@ -9,7 +9,7 @@ System.out.println("This is Java Program");
 System.out.println("Output from  Java Program");
 System.out.println(new Date());
   System.out.println("This is Chawal Program");
-System.out.println("Output from  JZentakouf Program");
+System.out.println("Output from  Zentakouf Program");
 
 
 
