@@ -6,7 +6,7 @@ public class main{
 public static void main(String[] args)
 {
 
-Sys.out.println("CI/CD Implementation");
+System.out.println("CI/CD Implementation");
 
 
 
